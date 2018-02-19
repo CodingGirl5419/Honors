@@ -1,0 +1,59 @@
+body {
+  background-image: url("trees.jpg");
+  background-size: cover;
+}
+
+h1.cursive {
+  font-family: "cursive", cursive;
+  color: red;
+  font-size: 100px
+}
+
+h2.monospace {
+  font-family: "monospace", monospace;
+  color: white;
+}
+
+p.monospace {
+  font-family: "monospace", monospace;
+  color: white;
+}
+
+a.monospace {
+  font-family: "monospace", monospace;
+  color: white;
+}
+
+.header {
+    padding: 20px;
+    text-align: center;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: red;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+    background-color: white;
+    color: black;
+}
+
+a:link {
+  text-decoration: none;
+  color: white;
+}
+
+a:visited {
+    color: white;
+}
