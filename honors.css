@@ -9,6 +9,11 @@ h1.cursive {
   font-size: 100px
 }
 
+.border {
+  border-style: solid;
+  border-color: white;
+}
+
 h2.monospace {
   font-family: "monospace", monospace;
   color: white;
