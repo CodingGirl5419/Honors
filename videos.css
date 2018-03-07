@@ -1,0 +1,45 @@
+body {
+  background-image: url("roses close.jpg");
+  background-size: cover;
+}
+
+h1.cursive {
+  font-family: "cursive", cursive;
+  color: red;
+  font-size: 100px
+}
+
+.border {
+  border-style: solid;
+  border-color: white;
+}
+
+h2.monospace {
+  font-family: "monospace", monospace;
+  color: white;
+}
+
+h2 span {
+    color: white;
+    font-family: monospace;
+    text-align: center;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+
+}
+
+p.monospace {
+  font-family: "monospace", monospace;
+  color: white;
+}
+
+a.monospace {
+  font-family: "monospace", monospace;
+  color: white;
+}
+
+.header {
+    padding: 20px;
+    text-align: center;
+}
