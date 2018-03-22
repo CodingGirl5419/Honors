@@ -1,0 +1,40 @@
+body {
+background-image: url("pool steps b&w.jpg");
+}
+
+h1 {
+  font-family: "cursive", cursive;
+  color: white;
+}
+
+span {
+    color: red;
+    font-family: monospace;
+    text-align: center;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+
+}
+
+.span {
+    color: white;
+    font-family: "cursive", cursive;
+    text-align: center;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+
+}
+
+/*.p {
+  font-family: "cursive", cursive;
+  color: white;
+  font-size: 120%;
+}*/
+
+p {
+  font-family: "cursive", cursive;
+  color: red;
+  font-size: 120%;
+}
