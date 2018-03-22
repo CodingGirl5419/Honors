@@ -1,5 +1,21 @@
-body {
+/*body {
 background-image: url("trees 2.jpg");
+}*/
+
+body {
+  background-color: black;
+}
+
+#glitchArt {
+  background-image: url("trees 2.jpg");
+}
+
+#albumArt {
+  background-image: url("b&w trees.jpg");
+}
+
+#collages {
+  background-image: url(".jpg");
 }
 
 
