@@ -1,5 +1,5 @@
 body {
-  background-image: url("pool steps.jpg");
+  background-image: url("white flower.jpg");
   background-size: cover;
 }
 
@@ -36,7 +36,7 @@ a.monospace {
 
 .topnav {
   overflow: hidden;
-  background-image: url("Daisy copy 2.png");
+  background-image: url("");
 }
 
 .topnav a {
@@ -57,6 +57,7 @@ a.monospace {
 a:link {
   text-decoration: none;
   color: white;
+  font-size: 150%;
 }
 
 a:visited {
