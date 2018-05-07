@@ -15,13 +15,35 @@ body {
 }
 
 #collages {
-  background-image: url("pool steps b&w copy.JPG");
+  background-image: url("pool steps b&w copy.jpg");
 }
-
 
 h1 {
   font-family: "cursive", cursive;
   color: white;
+}
+
+h2 {
+  font-family: "cursive", cursive;
+  color: white;
+  text-decoration: none;
+  font-size: 100%;
+}
+
+#button {
+  background-color: pink;
+  border-color: pink;
+  border-radius: 20%;
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+  font-family: monospace;
+}
+
+a:visited {
+    color: black;
 }
 
 span {
