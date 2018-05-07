@@ -7,6 +7,11 @@ h1 {
   color: white;
 }
 
+h2 {
+  font-family: "cursive", cursive;
+  color: white;
+}
+
 span {
     color: white;
     font-family: monospace;
@@ -15,6 +20,32 @@ span {
     background: rgba(0, 0, 0, 0.5);
     padding: 10px;
 
+}
+
+#ICP {
+
+}
+
+#photography {
+
+}
+
+#button {
+  background-color: #ffe600;
+  border-color: #ffe600;
+  border-radius: 20%;
+  font-size: 150%;
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+  font-family: monospace;
+  font-size: 100%;
+}
+
+a:visited {
+    color: black;
 }
 
 .p {
