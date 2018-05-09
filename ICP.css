@@ -1,5 +1,5 @@
 body {
-background-image: url("Daisy copy 22.png");
+/*background-image: url("Daisy copy 22.png");*/
 }
 
 h1 {
@@ -23,7 +23,7 @@ span {
 }
 
 #ICP {
-
+background-color: white;
 }
 
 #photography {
@@ -35,6 +35,20 @@ span {
   border-color: #ffe600;
   border-radius: 20%;
   font-size: 150%;
+}
+
+#border {
+  border: 10px;
+  background-image: url("Daisy copy 22.png");
+}
+
+#button2 {
+  background-color: lightblue;
+  border-color: lightblue;
+  border-radius: 20%;
+  font-size: 150%;
+  font-family: monospace;
+  padding: 5px 5px;
 }
 
 a:link {
