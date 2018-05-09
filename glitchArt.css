@@ -3,10 +3,10 @@ background-image: url("trees 2.jpg");
 }*/
 
 body {
-  background-color: black;
+  background-color: white;
 }
 
-#glitchArt {
+/*#glitchArt {
   background-image: url("trees 2.jpg");
 }
 
@@ -15,8 +15,8 @@ body {
 }
 
 #collages {
-  background-image: url("pool steps b&w copy.JPG");
-}
+  background-image: url("pool steps b&w copy.jpg");
+}*/
 
 h1 {
   font-family: "cursive", cursive;
@@ -34,6 +34,15 @@ h2 {
   background-color: pink;
   border-color: pink;
   border-radius: 20%;
+}
+
+#button2 {
+  background-color: lightblue;
+  border-color: lightblue;
+  border-radius: 20%;
+  font-size: 100%;
+  font-family: monospace;
+  padding: 12px 10px;
 }
 
 a:link {
