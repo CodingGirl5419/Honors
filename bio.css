@@ -22,7 +22,7 @@ span {
 
 .span {
     color: white;
-    font-family: "cursive", cursive;
+    font-family: cursive, "cursive";
     text-align: center;
     background: rgb(0, 0, 0);
     background: rgba(0, 0, 0, 0.5);
