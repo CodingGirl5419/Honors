@@ -9,6 +9,14 @@ h1.cursive {
   font-size: 100px
 }
 
+button {
+  /*background-image: url("white flower.jpg");
+  border-color: lightblue;
+  border-radius: 200%;*/
+  background-color: black;
+  border-color: black;
+}
+
 .border {
   border-style: solid;
   border-color: white;
