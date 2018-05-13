@@ -1,0 +1,44 @@
+body {
+  background-color: white;
+}
+
+h1 {
+  font-family: "cursive", cursive;
+  color: white;
+}
+
+a:link {
+  text-decoration: none;
+  color: white;
+  font-family: monospace;
+}
+
+a:visited {
+    color: white;
+}
+
+span {
+    color: white;
+    font-family: monospace;
+    text-align: center;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+
+}
+
+.p {
+  font-family: "cursive", cursive;
+  color: white;
+  font-size: 120%;
+}
+
+#button2 {
+  background-color: lightblue;
+  border-color: lightblue;
+  /*background-image: url("the tulips.jpg");*/
+  border-radius: 20%;
+  font-size: 100%;
+  font-family: monospace;
+  padding: 12px 10px;
+}
