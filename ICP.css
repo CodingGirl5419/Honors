@@ -35,6 +35,14 @@ background-color: white;
   border-color: #ffe600;
   border-radius: 20%;
   font-size: 150%;
+  /*background-image: url("the tulips 2.jpg");*/
+}
+
+#button1 {
+  background-color: #ffe600;
+  border-color: #ffe600;
+  border-radius: 6%;
+  font-size: 150%;
 }
 
 #border {
