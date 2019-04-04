@@ -76,7 +76,7 @@ a:visited {
   font-size: 120%;
 }
 
-.rotate280 {
-  -webkit-transform: rotate(280deg);
-  transform: rotate(280deg);
+.rotate260 {
+  -webkit-transform: rotate(260deg);
+  transform: rotate(260deg);
 }
