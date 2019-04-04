@@ -75,3 +75,8 @@ a:visited {
   color: white;
   font-size: 120%;
 }
+
+.rotate {
+  -webkit-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
