@@ -80,3 +80,10 @@ a:visited {
   -webkit-transform: rotate(270deg);
   transform: rotate(270deg);
 }
+
+.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+  
